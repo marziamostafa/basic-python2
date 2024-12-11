@@ -1,1 +1,1 @@
-To swap from lower case to upper case vice versa= data.swapcase()
+To swap from lower case to upper case and vice versa= data.swapcase()
